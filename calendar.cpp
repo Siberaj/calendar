@@ -188,8 +188,8 @@ int main()
     int month;
     int year;
     int key;
-    month=2;
-    year=2024;
+    cin>>month;
+    cin>>year;
     makelayout();
     colHeading();
     do
